@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 - 💬 Ping Me about #Python, #HTML/CSS and anything else
 
 # Some of my projects:
-- ## Reflexo - AI Telegram Bot, analyzing a mood of user using "dostoevsky" - [see more...](https://github.com/Uknown-creator/reflexo)
-- ## EdRusk - New education systen [see more...](https://vk.com/edrusk)
-- ## Code from CRMHack [see more...](https://github.com/Uknown-creator/CRMHack)
+- ## Reflexo - AI Telegram Bot, analyzing a mood of user using "dostoevsky" - [*poke*](https://github.com/Uknown-creator/reflexo)
+- ## EdRusk - New education systen [*poke*](https://vk.com/edrusk)
+- ## Code from CRMHack [*poke*](https://github.com/Uknown-creator/CRMHack)
