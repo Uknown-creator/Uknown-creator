@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 - 💬 Ask me about anything and everything!
-- 📫 How to reach me: message me at [Telegram](https://t.me/tr3ad0s), [VK](https://vk.com/tn23m), [Mail](mail-to:kuskov.work@gmail.com)
+- 📫 How to reach me: message me at [Telegram](https://t.me/tr3ad0s), [VK](https://vk.com/tn23m), [Mail](mailto:kuskov.work@gmail.com)
 - 💬 Ping Me about #Python, #HTML/CSS and anything else
 
 # Some of my projects:
