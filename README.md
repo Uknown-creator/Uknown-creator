@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 # Some of my projects:
 - ## Reflexo - AI Telegram Bot, analyzing a mood of user using "dostoevsky" - [see](https://github.com/Uknown-creator/reflexo)
-- ## EdRusk - New education systen - [see](https://vk.com/edrusk)
+- ## EdRusk - New education system - [see](https://vk.com/edrusk)
 - ## Code from CRMHack - [see](https://github.com/Uknown-creator/CRMHack)
