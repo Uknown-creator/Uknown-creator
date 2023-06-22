@@ -20,14 +20,7 @@ Here are some ideas to get you started:
 
 ---
 
-### I am a fullstack developer on Python, love programming and dogs :)
-  
-
-
-- 💬 Ask me about anything and everything!
-- 📫 How to reach me: message me at [Telegram](https://t.me/tr3ad0s), [VK](https://vk.com/tn23m), [Mail](mailto:kuskov.work@gmail.com)
-- 💬 Ping Me about #Python, #HTML/CSS and anything else
-
+### I am a fullstack developer on Python
 # Some of my projects:
 - ## Reflexo - AI Telegram Bot, analyzing a mood of user using "dostoevsky" - [see](https://github.com/Uknown-creator/reflexo)
 - ## EdRusk - New education system - [see](https://vk.com/edrusk)
