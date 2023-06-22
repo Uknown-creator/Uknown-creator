@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ---
 
-### I am a fullstack developer on Python
-# Some of my projects:
+### I am a fullstack developer on Python with some interesting projects
+# Projects:
 - ## Reflexo - AI Telegram Bot, analyzing a mood of user using "dostoevsky" - [see](https://github.com/Uknown-creator/reflexo)
 - ## EdRusk - New education system - [see](https://vk.com/edrusk)
 - ## Code from CRMHack - [see](https://github.com/Uknown-creator/CRMHack)
